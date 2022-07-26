@@ -39,7 +39,7 @@ As mentioned above, this was just a review. I just completed a 6 month full time
 ## Author
 
 - Website - [Adam H](https://adamh.ca)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/wastedsundays)
+- Frontend Mentor - [@ywastedsundays](https://www.frontendmentor.io/profile/wastedsundays)
 - Twitter - [@wastedsundays](https://www.twitter.com/wastedsundays)
 
 
