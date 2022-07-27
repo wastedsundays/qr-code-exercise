@@ -18,8 +18,8 @@ images\Screenshot.png
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://adamh.ca/misc/qrcode/index.html)
-- Live Site URL: [Add live site URL here](https://adamh.ca)
+- Solution URL: [https://62e08041647b1310f6c37cc2--enchanting-lollipop-4fc489.netlify.app/](https://62e08041647b1310f6c37cc2--enchanting-lollipop-4fc489.netlify.app/)
+
 
 ## My process
 
