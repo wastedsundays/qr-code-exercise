@@ -18,7 +18,8 @@ images\Screenshot.png
 
 ### Links
 
-- Solution URL: [https://62e08041647b1310f6c37cc2--enchanting-lollipop-4fc489.netlify.app/](https://62e08041647b1310f6c37cc2--enchanting-lollipop-4fc489.netlify.app/)
+- Live Site URL: [https://62e08041647b1310f6c37cc2--enchanting-lollipop-4fc489.netlify.app/](https://62e08041647b1310f6c37cc2--enchanting-lollipop-4fc489.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-exercies-F3BmH0DCSu](https://www.frontendmentor.io/solutions/qr-code-exercies-F3BmH0DCSu)
 
 
 ## My process
